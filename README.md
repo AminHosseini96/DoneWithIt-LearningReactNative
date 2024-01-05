@@ -1,6 +1,6 @@
 # DoneWithIt
 
-This was a priject that I developed during learning React Native
+This was a project that I developed during learning React Native
 
 ## Description
 
